@@ -148,89 +148,89 @@ export class AppComponent {
     updateU2() {
     if(this.b2==1) {
       if(this.k2=="1") {
-        this.item[(this.b2-1).toString()].kolom1="1";
+        this.item[(this.b2-1).toString()].kolom1="2";
       }
       else if (this.k2=="2") {
-        this.item[this.b2-1].kolom2="1";
+        this.item[this.b2-1].kolom2="2";
       }
       else if (this.k2=="3") {
-        this.item[this.b2-1].kolom3="1";
+        this.item[this.b2-1].kolom3="2";
       }
       else if (this.k2=="4") {
-        this.item[this.b2-1].kolom4="1";
+        this.item[this.b2-1].kolom4="2";
       }
       else if (this.k2=="5") {
-        this.item[this.b2-1].kolom5="1";
+        this.item[this.b2-1].kolom5="2";
       }
     }
     
     if(this.b2==2) {
       if(this.k2=="1") {
-        this.item[this.b2-1].kolom1="1";
+        this.item[this.b2-1].kolom1="2";
       }
       else if (this.k2=="2") {
-        this.item[this.b2-1].kolom2="1";
+        this.item[this.b2-1].kolom2="2";
       }
       else if (this.k2=="3") {
-        this.item[this.b2-1].kolom3="1";
+        this.item[this.b2-1].kolom3="2";
       }
       else if (this.k2=="4") {
-        this.item[this.b2-1].kolom4="1";
+        this.item[this.b2-1].kolom4="2";
       }
       else if (this.k2=="5") {
-        this.item[this.b2-1].kolom5="1";
+        this.item[this.b2-1].kolom5="2";
       }
     }
 
     if(this.b2==3) {
       if(this.k2=="1") {
-        this.item[this.b2-1].kolom1="1";
+        this.item[this.b2-1].kolom1="2";
       }
       else if (this.k2=="2") {
-        this.item[this.b2-1].kolom2="1";
+        this.item[this.b2-1].kolom2="2";
       }
       else if (this.k2=="3") {
-        this.item[this.b2-1].kolom3="1";
+        this.item[this.b2-1].kolom3="2";
       }
       else if (this.k2=="4") {
-        this.item[this.b2-1].kolom4="1";
+        this.item[this.b2-1].kolom4="2";
       }
       else if (this.k2=="5") {
-        this.item[this.b2-1].kolom5="1";
+        this.item[this.b2-1].kolom5="2";
       }
     }
     if(this.b2==4) {
       if(this.k2=="1") {
-        this.item[this.b2-1].kolom1="1";
+        this.item[this.b2-1].kolom1="2";
       }
       else if (this.k2=="2") {
-        this.item[this.b2-1].kolom2="1";
+        this.item[this.b2-1].kolom2="2";
       }
       else if (this.k2=="3") {
-        this.item[this.b2-1].kolom3="1";
+        this.item[this.b2-1].kolom3="2";
       }
       else if (this.k2=="4") {
-        this.item[this.b2-1].kolom4="1";
+        this.item[this.b2-1].kolom4="2";
       }
       else if (this.k2=="5") {
-        this.item[this.b2-1].kolom5="1";
+        this.item[this.b2-1].kolom5="2";
       }
     }
     if(this.b2==5) {
       if(this.k2=="1") {
-        this.item[this.b2-1].kolom1="1";
+        this.item[this.b2-1].kolom1="2";
       }
       else if (this.k2=="2") {
-        this.item[this.b2-1].kolom2="1";
+        this.item[this.b2-1].kolom2="2";
       }
       else if (this.k2=="3") {
-        this.item[this.b2-1].kolom3="1";
+        this.item[this.b2-1].kolom3="2";
       }
       else if (this.k2=="4") {
-        this.item[this.b2-1].kolom4="1";
+        this.item[this.b2-1].kolom4="2";
       }
       else if (this.k2=="5") {
-        this.item[this.b2-1].kolom5="1";
+        this.item[this.b2-1].kolom5="2";
       }
     }
   }
