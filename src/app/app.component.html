@@ -4,13 +4,10 @@
 </p>
 
 User 1 : <input [(ngModel)]="b1" type="text"/><input [(ngModel)]="k1" type="text"/>
-<button (click)="update()">Update</button>
-<p>{{b1}},{{k1}}</p>
-
-
+<button (click)="updateU1()">Update</button>
 
 User 2 : <input [(ngModel)]="b2" type="text"/><input [(ngModel)]="k2" type="text"/>
-<p>{{b2}},{{k2}}</p>
+<button (click)="updateU2()">Update</button>
 
 <div *ngFor="let data of item">
     {{data.isi}}{{data.kolom1}}{{data.kolom2}}{{data.kolom3}}{{data.kolom4}}{{data.kolom5}}
